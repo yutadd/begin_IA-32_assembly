@@ -1,2 +1,2 @@
-# begin_IA-64_assembly
+# begin_IA-32_assembly
 By Intel format
